@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosip_ocean.mk
+    $(LOCAL_DIR)/lineage_ocean.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosip_ocean-eng \
-    aosip_ocean-user \
-    aosip_ocean-userdebug
+    lineage_ocean-eng \
+    lineage_ocean-user \
+    lineage_ocean-userdebug
