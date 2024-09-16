@@ -66,6 +66,11 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vendor.lineage.livedisplay@2.0-service-sysfs
 
+# Moto Camera 2
+TARGET_MOTCAMERA2 := denali-2
+
+$(call inherit-product, vendor/motorola/MotCamera2/motcamera2.mk)
+
 # NFC and Secure Element packages
 PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.nfc.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/sku_nfc/android.hardware.nfc.xml \
