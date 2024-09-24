@@ -1,5 +1,5 @@
 ## All blobs from this list, unless pinned and noted as otherwise,
-## are from ocean_retail (QPOS30.52-29-12).
+## are from ocean_retail (QPOS30.85-23-7).
 
 # Audio (Prebuilt Audio HAL)
 vendor/lib/hw/audio.primary.msm8953.so
@@ -9,7 +9,7 @@ vendor/lib/libmotaudioutils.so
 vendor/lib/libsensorndkbridge.so
 vendor/lib/libtinycompress_vendor.so
 vendor/lib/soundfx/libmmieffectswrapper.so
-vendor/lib/soundfx/libspeakerbundle.so|af862a0f01a2c2134dffeb47dd6b6dbd6d2efd39
+vendor/lib/soundfx/libspeakerbundle.so|6d9c9af28751665cb8341c734ee2dd743fd41d55
 vendor/lib/vndk/libtinyalsa.so:vendor/lib/libtinyalsa.so
 
 # Audio - ACDB
@@ -63,15 +63,15 @@ vendor/lib/libchromatix_mot_ov12a10_cpp_hfr_120.so
 vendor/lib/libchromatix_mot_ov12a10_cpp_hfr_60.so
 vendor/lib/libchromatix_mot_ov12a10_cpp_liveshot.so
 vendor/lib/libchromatix_mot_ov12a10_cpp_preview.so
-vendor/lib/libchromatix_mot_ov12a10_cpp_snapshot.so
 vendor/lib/libchromatix_mot_ov12a10_cpp_snapshot_custom.so
 vendor/lib/libchromatix_mot_ov12a10_cpp_snapshot_downscale.so
+vendor/lib/libchromatix_mot_ov12a10_cpp_snapshot.so
 vendor/lib/libchromatix_mot_ov12a10_cpp_video.so
 vendor/lib/libchromatix_mot_ov12a10_default_video.so
-vendor/lib/libchromatix_mot_ov12a10_hfr_120.so
 vendor/lib/libchromatix_mot_ov12a10_hfr_120_3a.so
-vendor/lib/libchromatix_mot_ov12a10_hfr_60.so
+vendor/lib/libchromatix_mot_ov12a10_hfr_120.so
 vendor/lib/libchromatix_mot_ov12a10_hfr_60_3a.so
+vendor/lib/libchromatix_mot_ov12a10_hfr_60.so
 vendor/lib/libchromatix_mot_ov12a10_postproc.so
 vendor/lib/libchromatix_mot_ov12a10_preview.so
 vendor/lib/libchromatix_mot_ov12a10_snapshot.so
@@ -82,13 +82,13 @@ vendor/lib/libchromatix_mot_s5k3l6_cpp_hfr_120.so
 vendor/lib/libchromatix_mot_s5k3l6_cpp_hfr_60.so
 vendor/lib/libchromatix_mot_s5k3l6_cpp_liveshot.so
 vendor/lib/libchromatix_mot_s5k3l6_cpp_preview.so
-vendor/lib/libchromatix_mot_s5k3l6_cpp_snapshot.so
 vendor/lib/libchromatix_mot_s5k3l6_cpp_snapshot_custom.so
+vendor/lib/libchromatix_mot_s5k3l6_cpp_snapshot.so
 vendor/lib/libchromatix_mot_s5k3l6_cpp_video_full.so
-vendor/lib/libchromatix_mot_s5k3l6_hfr_120.so
 vendor/lib/libchromatix_mot_s5k3l6_hfr_120_3a.so
-vendor/lib/libchromatix_mot_s5k3l6_hfr_60.so
+vendor/lib/libchromatix_mot_s5k3l6_hfr_120.so
 vendor/lib/libchromatix_mot_s5k3l6_hfr_60_3a.so
+vendor/lib/libchromatix_mot_s5k3l6_hfr_60.so
 vendor/lib/libchromatix_mot_s5k3l6_postproc.so
 vendor/lib/libchromatix_mot_s5k3l6_snapshot.so
 vendor/lib/libchromatix_mot_s5k3l6_video_full.so
@@ -98,11 +98,11 @@ vendor/lib/libchromatix_mot_s5k4h7_common.so
 vendor/lib/libchromatix_mot_s5k4h7_cpp_hfr_120.so
 vendor/lib/libchromatix_mot_s5k4h7_cpp_liveshot.so
 vendor/lib/libchromatix_mot_s5k4h7_cpp_preview.so
-vendor/lib/libchromatix_mot_s5k4h7_cpp_snapshot.so
 vendor/lib/libchromatix_mot_s5k4h7_cpp_snapshot_custom.so
+vendor/lib/libchromatix_mot_s5k4h7_cpp_snapshot.so
 vendor/lib/libchromatix_mot_s5k4h7_cpp_video_full.so
-vendor/lib/libchromatix_mot_s5k4h7_hfr_120.so
 vendor/lib/libchromatix_mot_s5k4h7_hfr_120_3a.so
+vendor/lib/libchromatix_mot_s5k4h7_hfr_120.so
 vendor/lib/libchromatix_mot_s5k4h7_postproc.so
 vendor/lib/libchromatix_mot_s5k4h7_snapshot.so
 vendor/lib/libchromatix_mot_s5k4h7_video_full.so
@@ -113,61 +113,61 @@ vendor/lib/libchromatix_mot_s5k5e9_cpp_hfr_120.so
 vendor/lib/libchromatix_mot_s5k5e9_cpp_hfr_60.so
 vendor/lib/libchromatix_mot_s5k5e9_cpp_liveshot.so
 vendor/lib/libchromatix_mot_s5k5e9_cpp_preview.so
-vendor/lib/libchromatix_mot_s5k5e9_cpp_snapshot.so
 vendor/lib/libchromatix_mot_s5k5e9_cpp_snapshot_custom.so
 vendor/lib/libchromatix_mot_s5k5e9_cpp_snapshot_downscale.so
+vendor/lib/libchromatix_mot_s5k5e9_cpp_snapshot.so
 vendor/lib/libchromatix_mot_s5k5e9_cpp_video_full.so
-vendor/lib/libchromatix_mot_s5k5e9_hfr_120.so
 vendor/lib/libchromatix_mot_s5k5e9_hfr_120_3a.so
-vendor/lib/libchromatix_mot_s5k5e9_hfr_60.so
+vendor/lib/libchromatix_mot_s5k5e9_hfr_120.so
 vendor/lib/libchromatix_mot_s5k5e9_hfr_60_3a.so
+vendor/lib/libchromatix_mot_s5k5e9_hfr_60.so
 vendor/lib/libchromatix_mot_s5k5e9_postproc.so
 vendor/lib/libchromatix_mot_s5k5e9_snapshot.so
 vendor/lib/libchromatix_mot_s5k5e9_video_full.so
 vendor/lib/libchromatix_mot_s5k5e9_zsl_preview_3a.so
 vendor/lib/libchromatix_mot_s5k5e9_zsl_video_3a.so
-vendor/lib/libchromatix_s5k4h7_channel_common.so
-vendor/lib/libchromatix_s5k4h7_channel_cpp_hfr_120.so
-vendor/lib/libchromatix_s5k4h7_channel_cpp_liveshot.so
-vendor/lib/libchromatix_s5k4h7_channel_cpp_preview.so
-vendor/lib/libchromatix_s5k4h7_channel_cpp_snapshot.so
-vendor/lib/libchromatix_s5k4h7_channel_cpp_snapshot_custom.so
-vendor/lib/libchromatix_s5k4h7_channel_cpp_video_full.so
-vendor/lib/libchromatix_s5k4h7_channel_hfr_120.so
-vendor/lib/libchromatix_s5k4h7_channel_hfr_120_3a.so
-vendor/lib/libchromatix_s5k4h7_channel_postproc.so
-vendor/lib/libchromatix_s5k4h7_channel_snapshot.so
-vendor/lib/libchromatix_s5k4h7_channel_video_full.so
-vendor/lib/libchromatix_s5k4h7_channel_zsl_preview_3a.so
-vendor/lib/libchromatix_s5k4h7_channel_zsl_video_3a.so
 vendor/lib/libchromatix_ov12a10_ocean_common.so
 vendor/lib/libchromatix_ov12a10_ocean_cpp_hfr_120.so
 vendor/lib/libchromatix_ov12a10_ocean_cpp_hfr_60.so
 vendor/lib/libchromatix_ov12a10_ocean_cpp_liveshot.so
 vendor/lib/libchromatix_ov12a10_ocean_cpp_preview.so
-vendor/lib/libchromatix_ov12a10_ocean_cpp_snapshot.so
 vendor/lib/libchromatix_ov12a10_ocean_cpp_snapshot_custom.so
 vendor/lib/libchromatix_ov12a10_ocean_cpp_snapshot_downscale.so
+vendor/lib/libchromatix_ov12a10_ocean_cpp_snapshot.so
 vendor/lib/libchromatix_ov12a10_ocean_cpp_video.so
 vendor/lib/libchromatix_ov12a10_ocean_default_video.so
-vendor/lib/libchromatix_ov12a10_ocean_hfr_120.so
 vendor/lib/libchromatix_ov12a10_ocean_hfr_120_3a.so
-vendor/lib/libchromatix_ov12a10_ocean_hfr_60.so
+vendor/lib/libchromatix_ov12a10_ocean_hfr_120.so
 vendor/lib/libchromatix_ov12a10_ocean_hfr_60_3a.so
+vendor/lib/libchromatix_ov12a10_ocean_hfr_60.so
 vendor/lib/libchromatix_ov12a10_ocean_postproc.so
 vendor/lib/libchromatix_ov12a10_ocean_preview.so
 vendor/lib/libchromatix_ov12a10_ocean_snapshot.so
 vendor/lib/libchromatix_ov12a10_ocean_zsl_preview_3a.so
 vendor/lib/libchromatix_ov12a10_ocean_zsl_video_3a.so
+vendor/lib/libchromatix_s5k4h7_channel_common.so
+vendor/lib/libchromatix_s5k4h7_channel_cpp_hfr_120.so
+vendor/lib/libchromatix_s5k4h7_channel_cpp_liveshot.so
+vendor/lib/libchromatix_s5k4h7_channel_cpp_preview.so
+vendor/lib/libchromatix_s5k4h7_channel_cpp_snapshot_custom.so
+vendor/lib/libchromatix_s5k4h7_channel_cpp_snapshot.so
+vendor/lib/libchromatix_s5k4h7_channel_cpp_video_full.so
+vendor/lib/libchromatix_s5k4h7_channel_hfr_120_3a.so
+vendor/lib/libchromatix_s5k4h7_channel_hfr_120.so
+vendor/lib/libchromatix_s5k4h7_channel_postproc.so
+vendor/lib/libchromatix_s5k4h7_channel_snapshot.so
+vendor/lib/libchromatix_s5k4h7_channel_video_full.so
+vendor/lib/libchromatix_s5k4h7_channel_zsl_preview_3a.so
+vendor/lib/libchromatix_s5k4h7_channel_zsl_video_3a.so
 vendor/lib/libchromatix_s5k4h7_ocean_common.so
 vendor/lib/libchromatix_s5k4h7_ocean_cpp_hfr_120.so
 vendor/lib/libchromatix_s5k4h7_ocean_cpp_liveshot.so
 vendor/lib/libchromatix_s5k4h7_ocean_cpp_preview.so
-vendor/lib/libchromatix_s5k4h7_ocean_cpp_snapshot.so
 vendor/lib/libchromatix_s5k4h7_ocean_cpp_snapshot_custom.so
+vendor/lib/libchromatix_s5k4h7_ocean_cpp_snapshot.so
 vendor/lib/libchromatix_s5k4h7_ocean_cpp_video_full.so
-vendor/lib/libchromatix_s5k4h7_ocean_hfr_120.so
 vendor/lib/libchromatix_s5k4h7_ocean_hfr_120_3a.so
+vendor/lib/libchromatix_s5k4h7_ocean_hfr_120.so
 vendor/lib/libchromatix_s5k4h7_ocean_postproc.so
 vendor/lib/libchromatix_s5k4h7_ocean_snapshot.so
 vendor/lib/libchromatix_s5k4h7_ocean_video_full.so
@@ -196,10 +196,10 @@ vendor/lib/libmmcamera2_cpp_module.so
 vendor/lib/libmmcamera2_frame_algorithm.so
 vendor/lib/libmmcamera2_iface_modules.so
 vendor/lib/libmmcamera2_imglib_modules.so
-vendor/lib/libmmcamera2_is.so
 vendor/lib/libmmcamera2_isp_modules.so
-vendor/lib/libmmcamera2_mct.so
+vendor/lib/libmmcamera2_is.so
 vendor/lib/libmmcamera2_mct_shimlayer.so
+vendor/lib/libmmcamera2_mct.so
 vendor/lib/libmmcamera2_pp_buf_mgr.so
 vendor/lib/libmmcamera2_pproc_modules.so|7ee35c52cbb7dbcf4b5b1de808aeefa4d975c8f7
 vendor/lib/libmmcamera2_q3a_core.so
@@ -213,11 +213,11 @@ vendor/lib/libmmcamera_eebinparse.so
 vendor/lib/libmmcamera_eeprom_util.so
 vendor/lib/libmmcamera_eztune_module.so
 vendor/lib/libmmcamera_facedetection_lib.so
-vendor/lib/libmmcamera_faceproc.so
 vendor/lib/libmmcamera_faceproc2.so
+vendor/lib/libmmcamera_faceproc.so
 vendor/lib/libmmcamera_hdr_gb_lib.so
-vendor/lib/libmmcamera_imglib.so
 vendor/lib/libmmcamera_imglib_faceproc_adspstub.so
+vendor/lib/libmmcamera_imglib.so
 vendor/lib/libmmcamera_interface.so
 vendor/lib/libmmcamera_isp_abf40.so
 vendor/lib/libmmcamera_isp_bcc40.so
@@ -256,27 +256,27 @@ vendor/lib/libmmcamera_isp_wb40.so
 vendor/lib/libmmcamera_mot_dw9763_eeprom.so
 vendor/lib/libmmcamera_mot_dw9767_eeprom.so
 vendor/lib/libmmcamera_mot_gt24p64b_eeprom.so
-vendor/lib/libmmcamera_mot_ov12a10.so
 vendor/lib/libmmcamera_mot_ov12a10_eeprom.so
+vendor/lib/libmmcamera_mot_ov12a10.so
 vendor/lib/libmmcamera_mot_s5k3l6.so
-vendor/lib/libmmcamera_mot_s5k5e9.so
 vendor/lib/libmmcamera_mot_s5k5e9_eeprom.so
+vendor/lib/libmmcamera_mot_s5k5e9.so
 vendor/lib/libmmcamera_paaf_lib.so
-vendor/lib/libmmcamera_pdaf.so
 vendor/lib/libmmcamera_pdafcamif.so
+vendor/lib/libmmcamera_pdaf.so
 vendor/lib/libmmcamera_ppbase_module.so
 vendor/lib/libmmcamera_ppeiscore.so
 vendor/lib/libmmcamera_quadracfa.so
-vendor/lib/libmmcamera_s5k4h7.so
 vendor/lib/libmmcamera_s5k4h7_eeprom.so
+vendor/lib/libmmcamera_s5k4h7.so
 vendor/lib/libmmcamera_sat_test_lib.so
 vendor/lib/libmmcamera_stillmore_lib.so
 vendor/lib/libmmcamera_sw2d_lib.so
 vendor/lib/libmmcamera_thread_services.so
 vendor/lib/libmmcamera_tintless_algo.so
 vendor/lib/libmmcamera_tintless_bg_pca_algo.so
-vendor/lib/libmmcamera_tuning.so
 vendor/lib/libmmcamera_tuning_lookup.so
+vendor/lib/libmmcamera_tuning.so
 vendor/lib/libmmcamera_vstab_module.so
 vendor/lib64/libmmcamera2_frame_algorithm.so
 vendor/lib64/libmmcamera2_is.so
@@ -289,7 +289,7 @@ vendor/lib64/libmmcamera_tintless_algo.so
 vendor/lib64/libmmcamera_tintless_bg_pca_algo.so
 
 # Offmode charging
-vendor/bin/charge_only_mode|c40a00995ba78a1b5eb806d796a9aa1d3ae7f712
+vendor/bin/charge_only_mode|8fcb47d358809910aa4a7840a9cbac0cb1f98e5a
 
 # Display Calibrations
 vendor/etc/qdcm_calib_data_mipi_mot_vid_csot_720p_622.xml|a7bee235c1dbad83f1866e4e81d7cc0c1f503cfb
@@ -317,8 +317,8 @@ vendor/firmware/st21nfc_fw.bin
 vendor/firmware/AbovCapSense.BIN
 
 # Sensors
-vendor/lib/sensors.ssc.so|01b65f35579f490e997292354d100bf8a3351ba7
-vendor/lib64/sensors.ssc.so|d960f08a511443fb59dc4012bd28796595aa08f7
+vendor/lib/sensors.ssc.so|83e266b09015b5b7032603c05919f8d3ce643d0e
+vendor/lib64/sensors.ssc.so|fba95b5105e7d4c19d075dee3ec8cbb19768dc96
 
 # Sound Card (tfa98xx)
 vendor/firmware/tfa98xx.cnt
