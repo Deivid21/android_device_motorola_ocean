@@ -9,7 +9,7 @@ vendor/lib/libmotaudioutils.so
 vendor/lib/libsensorndkbridge.so
 vendor/lib/libtinycompress_vendor.so
 vendor/lib/soundfx/libmmieffectswrapper.so
-vendor/lib/soundfx/libspeakerbundle.so|6d9c9af28751665cb8341c734ee2dd743fd41d55
+vendor/lib/soundfx/libspeakerbundle.so
 vendor/lib/vndk/libtinyalsa.so:vendor/lib/libtinyalsa.so
 
 # Audio - ACDB
@@ -188,7 +188,7 @@ vendor/firmware/cpp_firmware_v1_6_0.fw
 vendor/firmware/cpp_firmware_v1_8_0.fw
 
 # Camera - GPU
-vendor/lib/libmot_gpu_mapper.so|7c3e8f915ae55f4d0a945e3bfc26b634158bc176
+vendor/lib/libmot_gpu_mapper.so
 
 # Camera - mmcamera
 system/lib/libmmcamera_faceproc2.so
@@ -205,7 +205,7 @@ vendor/lib/libmmcamera2_is.so
 vendor/lib/libmmcamera2_mct_shimlayer.so
 vendor/lib/libmmcamera2_mct.so
 vendor/lib/libmmcamera2_pp_buf_mgr.so
-vendor/lib/libmmcamera2_pproc_modules.so|7ee35c52cbb7dbcf4b5b1de808aeefa4d975c8f7
+vendor/lib/libmmcamera2_pproc_modules.so
 vendor/lib/libmmcamera2_q3a_core.so
 vendor/lib/libmmcamera2_sensor_modules.so
 vendor/lib/libmmcamera2_stats_algorithm.so
@@ -293,7 +293,7 @@ vendor/lib64/libmmcamera_tintless_algo.so
 vendor/lib64/libmmcamera_tintless_bg_pca_algo.so
 
 # Offmode charging
-vendor/bin/charge_only_mode|8fcb47d358809910aa4a7840a9cbac0cb1f98e5a
+vendor/bin/charge_only_mode
 
 # Display Calibrations
 vendor/etc/qdcm_calib_data_mipi_mot_vid_csot_720p_622.xml|a7bee235c1dbad83f1866e4e81d7cc0c1f503cfb
@@ -321,8 +321,8 @@ vendor/firmware/st21nfc_fw.bin
 vendor/firmware/AbovCapSense.BIN
 
 # Sensors
-vendor/lib/sensors.ssc.so|83e266b09015b5b7032603c05919f8d3ce643d0e
-vendor/lib64/sensors.ssc.so|fba95b5105e7d4c19d075dee3ec8cbb19768dc96
+vendor/lib/sensors.ssc.so
+vendor/lib64/sensors.ssc.so
 
 # Sound Card (tfa98xx)
 vendor/firmware/tfa98xx.cnt
